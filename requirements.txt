@@ -1,0 +1,4 @@
+pandas>=2.0
+pytest>=8.0
+# Opcional, solo para el modo --llm:
+# anthropic>=0.40
